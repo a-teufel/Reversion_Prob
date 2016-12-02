@@ -1,0 +1,368 @@
+RESIDUE, CHAIN, AA, STRUCTURE
+  1, A, S, L  
+  2, A, T, L  
+  3, A, L, E  
+  4, A, R, E  
+  5, A, F, E  
+  6, A, V, E  
+  7, A, A, E  
+  8, A, V, E  
+  9, A, G, L  
+ 10, A, D, L  
+ 11, A, W, L  
+ 12, A, G, L  
+ 13, A, G, L  
+ 14, A, V, L  
+ 15, A, P, S  
+ 16, A, N, S
+ 17, A, A, T 
+ 18, A, P, T
+ 19, A, F, L  
+ 20, A, H, S  
+ 21, A, T, L  
+ 22, A, A, H  
+ 23, A, R, H  
+ 24, A, E, H  
+ 25, A, M, H  
+ 26, A, A, H  
+ 27, A, N, H  
+ 28, A, A, H  
+ 29, A, K, H  
+ 30, A, E, H  
+ 31, A, I, H  
+ 32, A, A, H  
+ 33, A, R, H  
+ 34, A, T, H  
+ 35, A, V, H  
+ 36, A, Q, H  
+ 37, A, I, H  
+ 38, A, M, T  
+ 39, A, G, L  
+ 40, A, A, L  
+ 41, A, D, S  
+ 42, A, F, E  
+ 43, A, I, E  
+ 44, A, M, E  
+ 45, A, S, E  
+ 46, A, L, L  
+ 47, A, G, S  
+ 48, A, D, L  
+ 49, A, N, L  
+ 50, A, F, S  
+ 51, A, Y, T  
+ 52, A, F, T  
+ 53, A, T, T  
+ 54, A, G, L  
+ 55, A, V, L  
+ 56, A, H, S  
+ 57, A, D, S 
+ 58, A, A, T 
+ 59, A, N, T 
+ 60, A, D, L  
+ 61, A, K, T 
+ 62, A, R, H 
+ 63, A, F, I 
+ 64, A, Q, I 
+ 65, A, E, I  
+ 66, A, T, I  
+ 67, A, F, I  
+ 68, A, E, I  
+ 69, A, D, T 
+ 70, A, V, T 
+ 71, A, F, T 
+ 72, A, S, L  
+ 73, A, D, S 
+ 74, A, R, T 
+ 75, A, A, T 
+ 76, A, L, T 
+ 77, A, R, T 
+ 78, A, N, T 
+ 79, A, I, L  
+ 80, A, P, L  
+ 81, A, W, E  
+ 82, A, Y, E  
+ 83, A, V, L  
+ 84, A, L, L  
+ 85, A, A, L  
+ 86, A, G, L  
+ 87, A, N, T  
+ 88, A, H, T 
+ 89, A, D, G 
+ 90, A, H, G 
+ 91, A, L, G 
+ 92, A, G, S 
+ 93, A, N, L  
+ 94, A, V, H  
+ 95, A, S, H  
+ 96, A, A, H  
+ 97, A, Q, H  
+ 98, A, I, H 
+ 99, A, A, H 
+100, A, Y, G 
+101, A, S, G 
+102, A, K, G 
+103, A, I, T 
+104, A, S, L  
+105, A, K, S  
+106, A, R, S  
+107, A, W, E  
+108, A, N, E  
+109, A, F, L  
+110, A, P, L  
+111, A, S, S  
+112, A, P, S  
+113, A, Y, S  
+114, A, Y, E  
+115, A, R, E  
+116, A, L, E  
+117, A, R, E  
+118, A, F, E  
+119, A, K, E  
+120, A, V, L  
+121, A, P, S  
+122, A, R, S  
+123, A, S, S  
+124, A, N, L  
+125, A, I, L  
+126, A, T, E  
+127, A, V, E  
+128, A, A, E  
+129, A, I, E  
+130, A, F, E  
+131, A, M, E  
+132, A, L, L  
+133, A, D, L  
+134, A, T, H  
+135, A, V, H  
+136, A, M, H  
+137, A, L, H  
+138, A, C, H  
+139, A, G, L  
+140, A, N, L  
+141, A, S, G 
+142, A, D, G 
+143, A, D, G 
+144, A, F, S 
+145, A, V, T
+146, A, S, T
+147, A, Q, S 
+148, A, Q, S  
+149, A, P, L  
+150, A, E, L  
+151, A, M, S  
+152, A, P, L  
+153, A, R, S  
+154, A, D, L  
+155, A, L, H  
+156, A, G, H  
+157, A, V, H  
+158, A, A, H  
+159, A, R, H  
+160, A, T, H  
+161, A, Q, H  
+162, A, L, H  
+163, A, S, H  
+164, A, W, H  
+165, A, L, H  
+166, A, K, H  
+167, A, K, H  
+168, A, Q, H
+169, A, L, H 
+170, A, A, T
+171, A, A, T
+172, A, A, L  
+173, A, K, L  
+174, A, E, L  
+175, A, D, S  
+176, A, Y, E  
+177, A, V, E  
+178, A, L, E  
+179, A, V, E  
+180, A, A, E  
+181, A, G, L  
+182, A, H, S  
+183, A, Y, S  
+184, A, P, L  
+185, A, I, S  
+186, A, W, S  
+187, A, S, L  
+188, A, I, S  
+189, A, A, S  
+190, A, E, S  
+191, A, H, S  
+192, A, G, L  
+193, A, P, L  
+194, A, T, L  
+195, A, R, H
+196, A, C, H
+197, A, L, H
+198, A, V, H  
+199, A, K, H  
+200, A, N, H  
+201, A, L, T
+202, A, R, H
+203, A, P, H 
+204, A, L, H 
+205, A, L, H 
+206, A, A, H  
+207, A, A, H  
+208, A, Y, T  
+209, A, G, T  
+210, A, V, L  
+211, A, T, L  
+212, A, A, E  
+213, A, Y, E  
+214, A, L, E  
+215, A, C, E  
+216, A, G, L  
+217, A, H, L  
+218, A, D, S  
+219, A, H, S  
+220, A, N, S  
+221, A, L, E  
+222, A, Q, E  
+223, A, Y, E  
+224, A, L, E  
+225, A, Q, E  
+226, A, D, L  
+227, A, E, T 
+228, A, N, T 
+229, A, G, L  
+230, A, V, L  
+231, A, G, E  
+232, A, Y, E  
+233, A, V, E  
+234, A, L, E  
+235, A, S, E  
+236, A, G, L  
+237, A, A, L  
+238, A, G, S  
+239, A, N, S  
+240, A, F, L  
+241, A, M, L  
+242, A, D, L  
+243, A, P, L  
+244, A, S, L  
+245, A, V, L  
+246, A, R, T 
+247, A, H, T 
+248, A, Q, G 
+249, A, R, G 
+250, A, K, G 
+251, A, V, S 
+252, A, P, L  
+253, A, N, T 
+254, A, G, T 
+255, A, Y, L  
+256, A, L, E  
+257, A, R, E  
+258, A, F, E  
+259, A, H, E  
+260, A, Y, E  
+261, A, G, L  
+262, A, S, L  
+263, A, E, T 
+264, A, D, T 
+265, A, S, S 
+266, A, L, L  
+267, A, G, L  
+268, A, G, E  
+269, A, F, E  
+270, A, T, E  
+271, A, Y, E  
+272, A, V, E  
+273, A, E, E  
+274, A, I, E  
+275, A, G, L  
+276, A, S, S  
+277, A, K, S  
+278, A, E, E  
+279, A, M, E  
+280, A, S, E  
+281, A, I, E  
+282, A, T, E  
+283, A, Y, E  
+284, A, V, E  
+285, A, E, E 
+286, A, A, T 
+287, A, S, T 
+288, A, G, S 
+289, A, K, L  
+290, A, S, E  
+291, A, L, E  
+292, A, F, E  
+293, A, K, E  
+294, A, T, E  
+295, A, S, E  
+296, A, L, E  
+297, A, P, E  
+298, A, R, L  
+299, A, R, L  
+300, A, P, L  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
