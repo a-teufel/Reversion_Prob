@@ -1,0 +1,15 @@
+A brief explination of each of the columns in the csv files
+
+Generations - The number of substitions that have been accepted in the forward simulation minus the burn-in (500 substitions). A 1 in this feild would imply that the 501st substition in the forward simulation is being tested
+
+RevertTo - Is the mutation that occured during the foward simulation. For example if the column says A262D this means that an A to D substition happened at position 262 during the forward simulation. When calculating the reversion probability A  is reinserted into position 262.
+
+OrgScore - Is the stability of the structure calculated from the pdb files saved during the forward simulation
+
+RevScore - Is the stability of the structure when the reversion mutation is placed into the structure
+
+Change - Is the diffrence between the two scores
+
+Prob - The probability of accepting the reverted structure calculated using our accelerated acceptance criteria. A 1 in this column means that the reversion mutation would be accepted. 
+
+step - (a column to be added) gives the markov step. 
